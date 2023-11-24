@@ -1,0 +1,5 @@
+DB-Name: db-kmc
+Full-DB: false
+Wanos:
+- Dict-Name: kmc_results.yml
+  Wano-Name: KMC_1

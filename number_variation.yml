@@ -1,4 +1,4 @@
-2024-01-03-13h27m45s-Mult-It_rendered_wano.yml:
+2024-01-03-14h37m34s-Mult-It_rendered_wano.yml:
   Float: false
   Int: true
   N-points: 10
@@ -10,25 +10,7 @@
   VarI-end: 50000
   id_file: rendered_wano.yml
   tartfile: Structures.tar
-2024-01-03-13h27m52s-LIGGGHTS_rendered_wano.yml:
-  Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
-  Title: true
-  dumprate trajectory: 500
-  dumprate vtk and stl: 10000
-  id_file: rendered_wano.yml
-  timesteps: 20000
-  total number of hard particles: '40000'
-  velocity of pressing plate: 5.0
-2024-01-03-13h27m53s-LIGGGHTS0_rendered_wano.yml:
-  Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
-  Title: true
-  dumprate trajectory: 500
-  dumprate vtk and stl: 10000
-  id_file: rendered_wano.yml
-  timesteps: 20000
-  total number of hard particles: '20000'
-  velocity of pressing plate: 5.0
-2024-01-03-13h27m53s-LIGGGHTS_rendered_wano.yml:
+2024-01-03-14h37m45s-LIGGGHTS0_rendered_wano.yml:
   Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Title: true
   dumprate trajectory: 500
@@ -37,7 +19,16 @@
   timesteps: 20000
   total number of hard particles: '30000'
   velocity of pressing plate: 5.0
-2024-01-03-13h27m54s-LIGGGHTS_rendered_wano.yml:
+2024-01-03-14h37m45s-LIGGGHTS_rendered_wano.yml:
+  Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
+  Title: true
+  dumprate trajectory: 500
+  dumprate vtk and stl: 10000
+  id_file: rendered_wano.yml
+  timesteps: 20000
+  total number of hard particles: '40000'
+  velocity of pressing plate: 5.0
+2024-01-03-14h37m46s-LIGGGHTS0_rendered_wano.yml:
   Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Title: true
   dumprate trajectory: 500
@@ -46,7 +37,16 @@
   timesteps: 20000
   total number of hard particles: '10000'
   velocity of pressing plate: 5.0
-2024-01-03-13h27m57s-DataDive_datadive_results.yml:
+2024-01-03-14h37m46s-LIGGGHTS_rendered_wano.yml:
+  Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
+  Title: true
+  dumprate trajectory: 500
+  dumprate vtk and stl: 10000
+  id_file: rendered_wano.yml
+  timesteps: 20000
+  total number of hard particles: '20000'
+  velocity of pressing plate: 5.0
+2024-01-03-14h37m50s-DataDive_datadive_results.yml:
   Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 302580.208850566
@@ -3260,7 +3260,7 @@
   - 3.75710217437357
   total number of hard particles: '40000'
   velocity of pressing plate: 5.0
-2024-01-03-13h27m58s-DataDive_datadive_results.yml:
+2024-01-03-14h37m51s-DataDive_datadive_results.yml:
   Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 0.0
@@ -6474,7 +6474,7 @@
   - 3.09288642529288
   total number of hard particles: '30000'
   velocity of pressing plate: 5.0
-2024-01-03-13h27m59s-DataDive_datadive_results.yml:
+2024-01-03-14h37m52s-DataDive_datadive_results.yml:
   Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 0.0
@@ -9688,7 +9688,7 @@
   - 2.4405316463483
   total number of hard particles: '20000'
   velocity of pressing plate: 5.0
-2024-01-03-13h28m00s-DataDive_datadive_results.yml:
+2024-01-03-14h37m53s-DataDive_datadive_results.yml:
   Class: '[ [  0.1 , 0.2 , 0.3 , 0.4 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 0.0

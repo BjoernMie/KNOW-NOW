@@ -1,4 +1,4 @@
-2024-01-30-09h02m51s-Mult-It_rendered_wano.yml:
+2024-01-30-09h39m43s-Mult-It_rendered_wano.yml:
   Float: true
   Int: false
   N-points: 4
@@ -10,7 +10,7 @@
   VarI-end: 10
   id_file: rendered_wano.yml
   tartfile: Structures.tar
-2024-01-30-09h02m55s-LIGGGHTS_rendered_wano.yml:
+2024-01-30-09h39m48s-LIGGGHTS_rendered_wano.yml:
   Class: '[ [  0.2 , 0.3 , 0.4 , 0.45 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Title: normal
   dumprate trajectory: 500
@@ -19,7 +19,7 @@
   timesteps: 10000
   total number of hard particles: 15000
   velocity of pressing plate: 5.0
-2024-01-30-09h03m02s-DataDive_datadive_results.yml:
+2024-01-30-09h39m54s-DataDive_datadive_results.yml:
   Class: '[ [  0.2 , 0.3 , 0.4 , 0.45 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 0.0
@@ -824,6 +824,7 @@
   - -1.0
   - -1.0
   - -1.0
+  contact stress: 1.0
   dumprate trajectory: 500
   dumprate vtk and stl: 10000
   id_file: datadive_results.yml
@@ -1853,7 +1854,7 @@
   - 7.19647204138878
   total number of hard particles: 15000
   velocity of pressing plate: 5.0
-2024-01-30-09h03m03s-DataDive_datadive_results.yml:
+2024-01-30-09h39m55s-DataDive_datadive_results.yml:
   Class: '[ [  0.2 , 0.3 , 0.4 , 0.45 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 0.0
@@ -2658,6 +2659,7 @@
   - -1.0
   - -1.0
   - -1.0
+  contact stress: 0.7
   dumprate trajectory: 500
   dumprate vtk and stl: 10000
   id_file: datadive_results.yml
@@ -3705,7 +3707,7 @@
   - 7.19647204138878
   total number of hard particles: 15000
   velocity of pressing plate: 5.0
-2024-01-30-09h03m04s-DataDive_datadive_results.yml:
+2024-01-30-09h39m56s-DataDive_datadive_results.yml:
   Class: '[ [  0.2 , 0.3 , 0.4 , 0.45 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 0.0
@@ -4510,6 +4512,7 @@
   - -1.0
   - -1.0
   - -1.0
+  contact stress: 0.4
   dumprate trajectory: 500
   dumprate vtk and stl: 10000
   id_file: datadive_results.yml
@@ -5581,7 +5584,7 @@
   - 7.19647204138878
   total number of hard particles: 15000
   velocity of pressing plate: 5.0
-2024-01-30-09h03m05s-DataDive_datadive_results.yml:
+2024-01-30-09h39m57s-DataDive_datadive_results.yml:
   Class: '[ [  0.2 , 0.3 , 0.4 , 0.45 , 0.5 ] , [  0.1 , 0.2 , 0.4 , 0.2 , 0.1 ] ] '
   Fz:
   - 0.0
@@ -6386,6 +6389,7 @@
   - -1.0
   - -1.0
   - -1.0
+  contact stress: 0.1
   dumprate trajectory: 500
   dumprate vtk and stl: 10000
   id_file: datadive_results.yml

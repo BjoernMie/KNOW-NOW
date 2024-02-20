@@ -1,4 +1,4 @@
-![LIGGGHTS WaNo icon](/wanos/liggghts/liggghts.png) ![DataDive WaNo icon](WaNos/DataDive/DataDive.png)
+![LIGGGHTS WaNo icon](WaNos/LIGGGHTS/LIGGGHTS.png) ![DataDive WaNo icon](WaNos/DataDive/DataDive.png)
 
 When publishing results obtained with LIGGGHTS WaNo, please consider citing it.
 
@@ -17,7 +17,7 @@ The customizable parameters are from top to bottom:
 - *Title*: An arbitrary title of this set of parameters.
 - *velocity of pressing plate*: The velocity of the upper pressing plate moving downwards.
 - *total number of hard particles*: The number of ceramic particles to be inserted. Should be max. 20000.
-
+- ... to be continued
 
 
 

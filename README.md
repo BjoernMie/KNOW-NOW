@@ -1,4 +1,4 @@
-![LIGGGHTS WaNo icon](/wanos/liggghts/liggghts.png) ![DataDive WaNo icon](/wanos/datadive/datadive.png)
+![LIGGGHTS WaNo icon](/wanos/liggghts/liggghts.png) ![DataDive WaNo icon](WaNos/DataDive/DataDive.png)
 
 When publishing results obtained with LIGGGHTS WaNo, please consider citing it.
 

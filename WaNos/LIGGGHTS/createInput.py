@@ -47,10 +47,10 @@ with open('rendered_wano.yml') as file:
 
 
 # declaration of variables
-# fileName = "Massood.input"
+
 pairMod = 'hertz tangential history '
 absNumber = int(wano_file["total number of hard particles"]) #4000
-totalNum = absNumber*1.02
+totalNum = absNumber*1.1
 totalPol = totalNum-absNumber
 youngMod1 = 10e9
 youngMod2 = 10e6
@@ -140,7 +140,7 @@ def createLIGGGHTS(fileName):
     fix             pstclass3 ceramic particletemplate/sphere 32452867 atom_type 1 density constant 4000 radius constant {size3}
     fix             pstclass2 ceramic particletemplate/sphere 49979687 atom_type 1 density constant 4000 radius constant {size2}
     fix             pstclass1 ceramic particletemplate/sphere 49979693 atom_type 1 density constant 4000 radius constant {size1}
-    fix             pstpolymer polymer particletemplate/sphere 67867967 atom_type 2 density constant 1000 radius constant 0.1
+    fix             pstpolymer polymer particletemplate/sphere 67867967 atom_type 2 density constant 4000 radius constant 0.2
     fix             pdd1 all particledistribution/discrete 67867979 6 pstclass5 {ceraFrac5} pstclass4 {ceraFrac4} pstclass3 {ceraFrac3} pstclass2 {ceraFrac2} pstclass1 {ceraFrac1} pstpolymer {polyFrac}
     region          press_die block -9.5 9.5 -9.5 9.-5 0.5 24.5 units box
     fix             ins all insert/rate/region seed 15485863 distributiontemplate pdd1 nparticles {totalNum} particlerate {totalNum} insert_every 1000 overlapcheck yes region press_die ntry_mc 10000

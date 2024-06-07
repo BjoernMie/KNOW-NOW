@@ -1,6 +1,7 @@
 ![LIGGGHTS WaNo icon](WaNos/LIGGGHTS/LIGGGHTS.png) ![DataDive WaNo icon](WaNos/DataDive/DataDive.png)
 
-When publishing results obtained with LIGGGHTS WaNo, please consider citing it.
+When publishing results obtained with LIGGGHTS WaNo, please consider citing it.[![DOI](https://zenodo.org/badge/811733412.svg)](https://zenodo.org/doi/10.5281/zenodo.11517338)
+
 
 # LIGGGHTS and DataDive
 ---
